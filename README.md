@@ -12,3 +12,9 @@ Topics
 * [Bayesian Application: 3-Doors Monty Hall Problem](FIZ371_LN08_EST_Application_Monty_Hall.ipynb): Currently only the Monte Carlo code, text will follow (soon)
 * [Distributions I](FIZ371_LN10_EST_Distributions_1.ipynb): Discrete distributions
 * [Distributions II](FIZ371_LN15_EST_Distributions_2.ipynb): Continous distributions
+* [Game Theory](FIZ371_LN25_EST_Game_Theory.ipynb)
+* [Information Theory](FIZ371_LN36_EST_Information_Theory.ipynb)
+* [Information Theory Application: Message over a noisy channel](FIZ371_LN36_EST_Information_Theory_MessageTransmissionOverNoise.ipynb)
+* [Cellular Automata & Game of Life](FIZ371_LN47_EST_CellularAutomata_GameOfLife.ipynb)
+* [k-means Clustering](FIZ371_LN58_EST_ClusteringAndClassification.ipynb)
+* [Neural Networks](FIZ371_LN69_EST_NeuralNetworks.ipynb)
