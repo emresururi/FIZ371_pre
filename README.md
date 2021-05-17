@@ -19,3 +19,4 @@ Topics
 * [k-means Clustering](FIZ371_LN58_EST_ClusteringAndClassification.ipynb)
 * [Neural Networks](FIZ371_LN69_EST_NeuralNetworks.ipynb)
 * [Gale-Shapley Matching Algorithm Implementation (no Lecture Notes but directly the implementation code)](GaleShapleyMatching_Implementation.ipynb)
+* [2D Ising Model](FIZ371_LN80_EST_2DIsing.ipynb)
