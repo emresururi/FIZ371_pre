@@ -9,6 +9,7 @@ Ankara, Turkey
 Topics
 ---
 * [Probabilities](FIZ371_LN02_EST_Probabilities.ipynb): Permutations, Combinations, Products and Variations. Case study: 5 Tails out of 8 coin tosses (analytical & Monte Carlo)
+* [Monte Carlo Application: Nick Berry's Six Switch Problem (+ Parallelization)](FIZ371_LN06_SixSwitchPuzzle_and_Parallelization.ipynb)
 * [Bayesian Application: 3-Doors Monty Hall Problem](FIZ371_LN08_EST_Application_Monty_Hall.ipynb): Currently only the Monte Carlo code, text will follow (soon)
 * [Distributions I](FIZ371_LN10_EST_Distributions_1.ipynb): Discrete distributions
 * [Distributions II](FIZ371_LN15_EST_Distributions_2.ipynb): Continous distributions
@@ -20,3 +21,4 @@ Topics
 * [Neural Networks](FIZ371_LN69_EST_NeuralNetworks.ipynb)
 * [Gale-Shapley Matching Algorithm Implementation (no Lecture Notes but directly the implementation code)](GaleShapleyMatching_Implementation.ipynb)
 * [2D Ising Model](FIZ371_LN80_EST_2DIsing.ipynb)
+* Swarm Optimizations [References](FIZ371_LN95_EST_SwarmOptimizations.ipynb) | [Application: Ant Colony](FIZ371_LN95_EST_SwarmOptimizations_Application_AntColonyOptimization.ipynb) | [Application: Artificial Bee Colony](FIZ371_LN95_EST_SwarmOptimizations_Application_ArtificialBeeColony.ipynb)
